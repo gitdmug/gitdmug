@@ -1,0 +1,8 @@
+{
+  "name": "GITDM Platform",
+  "description": "Global Institute of Trading and Derivatives Markets — Education for the Financial Markets. Admissions, campus, assessments and academic records.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
